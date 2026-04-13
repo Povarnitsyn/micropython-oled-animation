@@ -1,4 +1,4 @@
-# MicroPython OLED Animation Player: OLED SSD1306 ESP32 Blender
+# MicroPython OLED Animation Player: SSD1306 ESP32 Blender
 
 Проект по созданию и воспроизведению плавной 3D-анимации на OLED-дисплее SSD1306 (128x64). Включает в себя полный цикл: от процедурного рендеринга в Blender до асинхронного вывода на контроллере.
 Протестировано на ESP32-S3-DevKitC-1 N16R8.
